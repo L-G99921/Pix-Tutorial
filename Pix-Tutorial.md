@@ -42,7 +42,7 @@ Below, you will find a few examples of how to set up a PIX key in other financia
    </td>
    <td><a href="https://banco.bradesco/pix/#cadastro">Bradesco</a>
    </td>
-   <td><a href="[https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter](https://blog.nubank.com.br/como-registrar-suas-chaves-do-pix-no-nubank/)">Nubank</a>
+   <td><a href="https://blog.nubank.com.br/como-registrar-suas-chaves-do-pix-no-nubank/">Nubank</a>
    </td>
   </tr>
 </table>
