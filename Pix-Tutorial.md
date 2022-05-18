@@ -7,7 +7,7 @@
 
 # What is PIX?
 
-How to set up your pix key PIX is an instant payment solution created by Brazil’s Central Bank. It is free to use, instantaneous, and most importantly, secure. It was created to facilitate debit transfers in a way that, once the receiver is confirmed, the money is immediately debited from your bank and credited to the receiver’s account, regardless of time, place, or bank of destination.
+pix-key or PIX is an instant payment solution created by Brazil’s Central Bank. It is free to use, instantaneous, and most importantly, secure. It was created to facilitate debit transfers in a way that, once the receiver is confirmed, the money is immediately debited from your bank and credited to the receiver’s account, regardless of time, place, or bank of destination.
 
 There are several ways to use PIX. The main one is to fill in the receiver’s personal details, such as their full name, CPF (personal identification number), and account details. A simpler alternative to that method is to use a shortcut by registering a PIX key.
 
