@@ -2,7 +2,7 @@
 - [What is PIX?](#what-is-pix-)
 - [What is a PIX Key?](#what-is-a-pix-key-)
 - [How to Set Up a PIX Key](#how-to-set-up-a-pix-key)
- - * [Example: Inter](#example--Inter)
+- [Example: Inter](#example--inter)
 - [Related Topics](#related-topics)
 
 # What is PIX?
