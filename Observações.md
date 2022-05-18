@@ -1,0 +1,3 @@
+# Observações
+1. tomei a liberdade de acrescentar alguns Artigos Relacionados com *“dummy links”* ao final do texto: eles contêm informações que não necessariamente deveriam fazer parte desse conteúdo, mas estão relacionados.
+2. Optei pelo Inter por ser uma plataforma popular e gratuita. No entanto, incluí também uma tabela contendo os bancos mais populares para facilitar a consulta. Num cenário real, essa tabela precisaria ser atualizada com frequência, e uma alternativa seria apenas informar o usuário para consultar o passo-a-passo do procedimento com a sua instituição de preferência disponibilizando os links para elas.
