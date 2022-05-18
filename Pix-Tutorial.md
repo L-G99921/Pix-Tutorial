@@ -2,12 +2,12 @@
 - [What is PIX?](#what-is-pix-)
 - [What is a PIX Key?](#what-is-a-pix-key-)
 - [How to Set Up a PIX Key](#how-to-set-up-a-pix-key)
-  * [Hands-On Example: Inter](#hands-on-example--Inter)
+  * [Example: Inter](#example--Inter)
 - [Related Topics](#related-topics)
 
 # What is PIX?
 
-pix-key or PIX is an instant payment solution created by Brazil’s Central Bank. It is free to use, instantaneous, and most importantly, secure. It was created to facilitate debit transfers in a way that, once the receiver is confirmed, the money is immediately debited from your bank and credited to the receiver’s account, regardless of time, place, or bank of destination.
+Pix key or just PIX is an instant payment solution created by Brazil’s Central Bank. It is free to use, instantaneous, and most importantly, secure. It was created to facilitate debit transfers in a way that, once the receiver is confirmed, the money is immediately debited from your bank and credited to the receiver’s account, regardless of time, place, or bank of destination.
 
 There are several ways to use PIX. The main one is to fill in the receiver’s personal details, such as their full name, CPF (personal identification number), and account details. A simpler alternative to that method is to use a shortcut by registering a PIX key.
 
@@ -26,7 +26,7 @@ Each key you register can be shared with anyone from whom you intend to receive 
 
 # How to Set Up a PIX Key
 
-To set up a PIX key, you will need to associate it to a financial institution of choice. Each financial institution decides how the registration happens. In this example, we will see how the procedure is done on the Nubank app, because it is popular and intuitive.
+To set up a PIX key, you will need to associate it to a financial institution of choice. Each financial institution decides how the registration happens. In this example, we will see how the procedure is done on the Inter app, because it is popular and intuitive.
 
 Below, you will find a few examples of how to set up a PIX key in other financial institutions:
 
@@ -47,10 +47,10 @@ Below, you will find a few examples of how to set up a PIX key in other financia
   </tr>
 </table>
 
-## Hands-On Example: Inter
+## Example: Inter
 
-1. Open the Inter app;
-2. On the index page, tap the icon in the center of the page;
+1. Open the Inter app (If you do not already have it on your mobile device, download it from the App Store or Play Store.);
+2. On the index page, tap on the PIX icon located in the center of the page;
 3. On the next page, choose the option **“Cadastrar Chave”**;
 4. You will be redirected to a new page, where you can select which type of key you want to use;
 5. On the pop-up, the available options will be displayed on the screen. Select the key you wish to associate to this account;
@@ -59,7 +59,7 @@ Below, you will find a few examples of how to set up a PIX key in other financia
 8. Confirm the registration;
 9. Ready!
 
-**Note**: Remembering that you can link up to 5 Pix keys to your Inter account.
+**Note**: Remember that you can link up to 5 Pix keys to your Inter account.
 
 # Related Topics
 * <a href="/">How to transfer my key to a different institution</a>
